@@ -1,0 +1,16 @@
+.flag{
+    width: 900px;
+    height: 600px;
+}
+.o{
+    background-color: orange;
+    height: 200px;
+}
+.w{
+    background-color: white;
+    height: 200px;
+}
+.g{
+    background-color: green;
+    height: 200px;
+}
